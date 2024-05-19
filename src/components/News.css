@@ -1,0 +1,11 @@
+@media only screen and (max-width: 700px) {
+    .card {
+        background-color: rgb(246, 253, 255);
+    }
+
+}
+
+.ctry-menu:hover{
+ border-bottom:2px solid brown;
+
+}
